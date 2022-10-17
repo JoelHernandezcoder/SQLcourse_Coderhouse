@@ -8,6 +8,6 @@ Desafío N° 1 : https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob
 
 Desafío N° 2 : Diagrama E-R : https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/master/sql_project.pdf
 
-Desafío N° 3: Tablas : https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/de64cf548389d070710429984679845eac158f17/challenge3Afix.pdf
+Desafío N° 3: Tablas : https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/348382d3a0f67fe15de68042234972f3e614f5f2/challenge3Afix.pdf
 
-Tablas Formato grilla : https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/de64cf548389d070710429984679845eac158f17/challenge3Bfix.pdf
+Tablas Formato grilla : https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/348382d3a0f67fe15de68042234972f3e614f5f2/challenge3Bfix.pdf
