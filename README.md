@@ -18,5 +18,5 @@ Tablas Formato grilla : https://github.com/JoelHernandezcoder/SQLcourse_Coderhou
 Documentación
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/eab813522654e23218b0426971c79de423402ae7/primer_entrega.pdf
 Codigo SQL:
-https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/eab813522654e23218b0426971c79de423402ae7/primer_entrega.sql
+https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/157f0e2a84b93705c86a593cb6ead1aab30610a8/primer_entrega.sql
 
