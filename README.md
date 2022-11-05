@@ -19,6 +19,7 @@ Documentación
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/8fb3478db8dd9b73c58ebfd1f8e79441f270534d/fix_primer_entrega.pdf
 Codigo SQL:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/8fb3478db8dd9b73c58ebfd1f8e79441f270534d/fix_primer_entrega.sql
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Desafío N° 4: Tablas Corregidas : https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/467129cd917eb946408893ddad74f4042d0eb4a9/ScriptTab_Hernandez.sql
