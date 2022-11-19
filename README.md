@@ -37,11 +37,9 @@ https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/48637530ddf95203
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🥈 Segunda Entrega del Proyecto Final y Desafío complementarios 6
 
-Documentación
+Documentación:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/f9521b43ad7cc5a8d732fede1f73312c922c0b3c/segunda_entrega.pdf
 Creación de Objetos:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/f9521b43ad7cc5a8d732fede1f73312c922c0b3c/segunda_entrega.sql
 Datos:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/f9521b43ad7cc5a8d732fede1f73312c922c0b3c/segunda_entrega_insert.sql
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
