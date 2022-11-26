@@ -43,3 +43,10 @@ Creación de Objetos:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/f9521b43ad7cc5a8d732fede1f73312c922c0b3c/segunda_entrega.sql
 Datos:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/f9521b43ad7cc5a8d732fede1f73312c922c0b3c/segunda_entrega_insert.sql
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Desafío N° 6: 
+https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/e54cd8b137acf035513052fe80e5f22f422beb16/TCL_Hernandez.sql
+Desafío Complementario:
+https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/e54cd8b137acf035513052fe80e5f22f422beb16/Sentencias_Hernandez.sql
+
