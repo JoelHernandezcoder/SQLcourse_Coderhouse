@@ -50,3 +50,8 @@ Desafío N° 6:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/e54cd8b137acf035513052fe80e5f22f422beb16/TCL_Hernandez.sql
 Desafío Complementario:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/e54cd8b137acf035513052fe80e5f22f422beb16/Sentencias_Hernandez.sql
+
+Desafío N° 7:
+Backup de datos:
+https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/7b6380eb87486a0bc879e9f1e2d47d4c0c5ecbba/Backup_Hern%C3%A1ndez.sql
+
