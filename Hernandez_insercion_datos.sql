@@ -1,0 +1,125 @@
+-- Creado por || JOELdev ||
+
+-- #######################################
+-- #	   1). Insercion de datos        #
+-- #######################################
+
+USE leon_labs;
+
+INSERT INTO random_clientes (nombre_cliente, pais_cliente, aerolinea) 
+VALUES 
+('Walsh-Hackett', 'Eslovenia', 'Dooley Inc'),
+('Hudson Group', 'Camerún', 'Willms and Sons'),
+('Maggio-Donnelly', 'Colombia', 'Satterfield Inc'),
+('Rice-Yost', 'China', 'Spencer and Hammes'),
+('Schulist Inc', 'Turquía', 'Kessler-Kemmer'),
+('Cartwright-Mann', 'Rusia', 'Roberts and Sons'),
+('Blick and Sons', 'Irlanda', 'Goodwin Inc'),
+('Kohler-Raynor', 'Filipinas', 'Hammes Inc'),
+('Dicki', 'Madagascar', 'Corkery Group'),
+('Wolff and Hudson', 'Nueva Zelanda', 'Klein-McGlynn'),
+('Walter Inc', 'Japón', 'Mueller and Harber'),
+('Ritchie Inc', 'Grecia', 'McKenzie-Gulgowski'),
+('Heidenreich', 'Suiza', 'Adams and Sons'),
+('Effertz Group', 'Estados Unidos', 'Schuppe-Hand'),
+('Borer LLC', 'España', 'McDermott-Ondricka'),
+('Barrows-Dicki', 'Republica Dominicana', 'Kunze-Littel'),
+('Larkin Inc', 'Indonesia', 'Grady'),
+('Hammes', 'Dinamarca', 'Berge Group'),
+('Nader and Sons', 'Mexico', 'Wisoky-Williamson'),
+('McCullough Inc', 'Ucrania', 'Nienow and Kling'),
+('Hermann LLC', 'Holanda', 'Mayer-Rogahn'),
+('Graham-Cassin', 'Sudáfrica', 'McClure'),
+('Harvey and Sons', 'Canadá', 'Cummerata'),
+('Trantow', 'Emiratos Árabes', 'Daniel'),
+('Corkery-Wilkinson', 'Egipto', 'Powlowski'),
+('Ankunding', 'India', 'Gutkowski'),
+('Mosciski', 'Noruega', 'McDermott and Kunze'),
+('Kub Inc', 'Alemania', 'Hoeger and Sons'),
+('Wisoky and King', 'Corea del Sur', 'Towne'),
+('Mills and Sons', 'Australia', 'Moore and Swift');
+
+INSERT INTO random_empleados (nombre_M, nombre_F, apellido, domicilio)
+VALUES
+('Dardo', 'Maria', 'Gonzalez', '7513 Summerview Way'),
+('Juan', 'Marta', 'Rodriguez', '2908 Circle'),
+('Jose', 'Marina', 'Gomez', '98 Dottie Center'),
+('Carlos', 'Cristina', 'Fernandez', '76123 Terrace'),
+('Jorge', 'Florencia', 'Lopez', '4106 Bowman Center'),
+('Luis', 'Delia', 'Diaz', '690 Red Cloud Parkway'),
+('Miguel', 'Ramona', 'Martinez', '7 Harper Park'),
+('Abel', 'Ana', 'Perez', '40091 Bayside Point'),
+('Hector', 'Josefina', 'Garcia', '7 Caliangt Circle'),
+('Ramón', 'Anahi', 'Sanchez', '903 Autumn Leaf Alley'),
+('Emanuel', 'Silvia', 'Romero', '11753 Alpine Parkway'),
+('Eduardo', 'Rosa', 'Sosa', '1110 Forest Lane'),
+('Roberto', 'Nancy', 'Torres', '5667 Russell Street'),
+('Oscar', 'Sabrina', 'Alvarez', '85962 Mcbride Drive'),
+('Daniel', 'Emiliana', 'Ruiz', '9247 Delaware Parkway'),
+('Maximiliano', 'Norma', 'Ramirez', '3 Brentwood Center'),
+('Martín', 'Marta', 'Flores', '2 School Center'),
+('Mario', 'Gimena', 'Benitez', '808 Jenna Trail'),
+('Ernesto', 'Claudia', 'Acosta', '22603 Nobel Trail'),
+('Pedro', 'Sofía', 'Medina', '9 Canary Circle'),
+('Ricardo', 'Lucrecia', 'Herrera', '3 Hanson Way'),
+('Virginio', 'Graciela', 'Suarez', '83328 Lawn Lane'),
+('Raúl', 'Marisa', 'Aguirre', '322 Mosinee Circle'),
+('Pablo', 'Rocío', 'Gimenez', '75 Welch Hill'),
+('Eduardo', 'Malvina', 'Gutierrez', '56 Cottonwood'),
+('Cristian', 'Soledad', 'Pereyra', '63 Gateway Park'),
+('Marcelo', 'Beatriz', 'Rojas', '021 Bobwhite Pass'),
+('Julio', 'Luz', 'Molina', '18 Del Sol Pass'),
+('Sergio', 'Monica', 'Castro', '16 Hanson Point'),
+('Hugo', 'Luciana', 'Ortiz', '6 Lawn Trail');
+
+INSERT INTO random_insumos (nombre_insumo, proveedor)
+VALUES 
+('Sumatriptan Succinate', 'Rebel Distributors Corp'),
+('Lorazepam', 'American Health Packaging'),
+('Fluoride', 'ROBELL RESEARCH, INC.'),
+('Metformin Hydrochloride', 'Proficient Rx LP'),
+('Metoprolol succinate', 'BluePoint Laboratories'),
+('Warfarin Sodium', 'REMEDYREPACK INC.'),
+('Ethyl Alcohol', 'Enchante Accessories'),
+('ZINC OXIDE', 'Wal-Mart Stores, Inc.'),
+('Alcohol', 'Evonik Stockhausen, LLC'),
+('POVIDONE-IODINE', 'Changzhou Jianze Sanitary'),
+('Sword Fish', 'Nelco Laboratories, Inc.'),
+('rasagiline mesylate', 'Physicians Total Care'),
+('valsartan', 'Cardinal Health'),
+('Verapamil Hydrochloride', 'Clinical Solutions'),
+('MORPHINE SULFATE', 'Hospira, Inc.'),
+('OCTINOXATE, OCTISALATE', 'LABORATOIRES M&L'),
+('THYROID, PORCINE', 'A-S Medication Solutions LLC'),
+('Amoxicillin', 'Lake Erie Medical Products LLC'),
+('Irbesartan', 'Teva Pharmaceuticals USA Inc'),
+('Chlorpheniramine Maleate', 'CARDINAL HEALTH'),
+('Clonazepam', 'H.J. Harkins Company, Inc.'),
+('Lamotrigine', 'Sandoz Inc'),
+('TITANIUM DIOXIDE, ZINC OXIDE', 'MallyGirl, LLC'),
+('Hydrochlorothiazide', 'Oceanside Pharmaceuticals'),
+('misoprostol', 'PD-Rx Pharmaceuticals, Inc.'),
+('Aspirin', 'McKesson'),
+('Quetiapine Fumarate', 'McKesson Packaging Services'),
+('ALLANTOIN', 'ROCKET ELECTRIC CO., LTD.'),
+('Heparin Sodium', 'McKesson Packaging Services'),
+('Aluminum Zirconium', 'Unilever');
+
+INSERT INTO random_med (nombre_med, descripcion, foto_med)
+VALUES
+('Oxalisalino', 'Other contact with crocodile', 'http://dummyimage.com/128x100.png/cc0000/ffffff'),
+('Vespa', 'Postviral fatigue syndrome', 'http://dummyimage.com/177x100.png/5fa2dd/ffffff'),
+('Levofloxacin', 'Fracture of sixth cervical vertebra', 'http://dummyimage.com/208x100.png/cc0000/ffffff'),
+('Imbue', 'Nondisplaced fracture of triquetrum [cuneiform] bone, unspecified wrist, initial encounter for open fracture', 'http://dummyimage.com/116x100.png/cc0000/ffffff'),
+('Gemfibrozil', 'Malignant neoplasm of overlapping sites of bone and articular cartilage of right limb', 'http://dummyimage.com/177x100.png/ff4444/ffffff'),
+('Humulin', 'Aneurysmal bone cyst, unspecified hand', 'http://dummyimage.com/208x100.png/5fa2dd/ffffff'),
+('Quetiapine fumarate', 'Rheumatoid lung disease with rheumatoid arthritis of right elbow', 'http://dummyimage.com/132x100.png/ff4444/ffffff'),
+('Curvularia inequalis', 'Laceration without foreign body of unspecified external genital organs, male, sequela', 'http://dummyimage.com/122x100.png/ff4444/ffffff'),
+('Lextrum', 'Age-related osteoporosis with current pathological fracture, left forearm, initial encounter for fracture', 'http://dummyimage.com/238x100.png/5fa2dd/ffffff'),
+('PERCODAN', 'Sprain of tibiofibular ligament of unspecified ankle, sequela', 'http://dummyimage.com/168x100.png/5fa2dd/ffffff'),
+('N - TIME', 'Laceration of dorsal vein of left foot, sequela', 'http://dummyimage.com/127x100.png/dddddd/000000'),
+('Methocarbamol', 'Displaced other extraarticular fracture of unspecified calcaneus, subsequent encounter for fracture with routine healing', 'http://dummyimage.com/158x100.png/5fa2dd/ffffff'),
+('Viagra', 'Passenger in pick-up truck or van injured in collision with railway train or railway vehicle in traffic accident, initial encounter', 'http://dummyimage.com/113x100.png/ff4444/ffffff'),
+('Clonidine Hydrochloride', 'Stress fracture, left humerus, initial encounter for fracture', 'http://dummyimage.com/248x100.png/ff4444/ffffff'),
+('LAMICTAL', 'Pneumonia due to Klebsiella pneumoniae', 'http://dummyimage.com/219x100.png/5fa2dd/ffffff');
+-- End of file.
