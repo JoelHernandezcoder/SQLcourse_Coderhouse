@@ -55,3 +55,14 @@ Desafío N° 7:
 Backup de datos:
 https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/7b6380eb87486a0bc879e9f1e2d47d4c0c5ecbba/Backup_Hern%C3%A1ndez.sql
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## 😎 Entrega Final del Proyecto Final
+
+Documentación
+https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/e920ae17cdcd23e2984470831c79e2be755c6d83/Leon_labs.pdf
+Codigo SQL creación de objetos:
+https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/e920ae17cdcd23e2984470831c79e2be755c6d83/Hernandez_creacion_objetos.sql
+Codigo SQL inserción de datos:
+https://github.com/JoelHernandezcoder/SQLcourse_Coderhouse/blob/e920ae17cdcd23e2984470831c79e2be755c6d83/Hernandez_insercion_datos.sql
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
